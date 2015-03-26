@@ -1,6 +1,6 @@
 <?php
 /**
- * Translator default controller
+ * Translator default controller hhh
  *
  * @package		noozsunnote
  * @subpackage	Components
